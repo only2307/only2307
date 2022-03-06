@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @only2307
-- 👀 I’m interested in web/mobile development
-- 🌱 I’m currently learning Computer Science - Data Science at University of Science - VNUHCM (though I want to study more in Software Engineering).
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data's world
+- 🌱 I’m currently learning Computer Science - Data Science at University of Science - VNUHCM.
+- 💞️ I’m looking to collaborate on internship in data's field
 - 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/duy-ho-hoang-44a396172/
 Facebook: https://www.facebook.com/hoangduy2307
